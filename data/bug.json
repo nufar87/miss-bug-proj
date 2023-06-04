@@ -1,0 +1,115 @@
+[
+  {
+    "_id": "2IIE6",
+    "title": "Cathy",
+    "description": "cat lover",
+    "severity": 1,
+    "creator": {
+      "_id": "3nbbC",
+      "fullname": "iris"
+    }
+  },
+  {
+    "_id": "fYkhk",
+    "title": "Philip",
+    "description": "create new bugs",
+    "severity": 2,
+    "creator": {
+      "_id": "CWms3",
+      "fullname": "Doby HP",
+      "isAdmin": false
+    }
+  },
+  {
+    "_id": "Hwiq8",
+    "title": "Fiona",
+    "description": "saving my browser",
+    "severity": 1,
+    "creator": {
+      "_id": "1187",
+      "fullname": "nufar mai"
+    }
+  },
+  {
+    "_id": "zLmPm",
+    "title": "Missie",
+    "description": "too bust making bugs",
+    "severity": 2,
+    "creator": {
+      "_id": "1187",
+      "fullname": "nufar mai"
+    }
+  },
+  {
+    "_id": "h9rRI",
+    "title": "Tonysss",
+    "description": "problem with rendering app",
+    "severity": 2,
+    "creator": {
+      "_id": "1187",
+      "fullname": "nufar mai"
+    }
+  },
+  {
+    "_id": "olU3s",
+    "title": "Tired af",
+    "description": "lack of sleep problem",
+    "severity": 1,
+    "creator": {
+      "_id": "1187",
+      "fullname": "nufar mai"
+    }
+  },
+  {
+    "_id": "CY4oH",
+    "title": "Sophie sof",
+    "description": "living the bug dreams",
+    "severity": 2,
+    "creator": {
+      "_id": "1187",
+      "fullname": "nufar mai"
+    }
+  },
+  {
+    "_id": "GGrbh",
+    "title": "Rori",
+    "description": "problem with login",
+    "severity": 1,
+    "creator": {
+      "_id": "1187",
+      "fullname": "nufar mai"
+    }
+  },
+  {
+    "_id": "VapAj",
+    "title": "Aimee",
+    "description": "tired",
+    "severity": 2,
+    "creator": {
+      "_id": "1187",
+      "fullname": "nufar mai"
+    }
+  },
+  {
+    "_id": "7dCMR",
+    "title": "Guli",
+    "description": "fly away",
+    "severity": 2,
+    "createdAt": "1668540580766",
+    "creator": {
+      "_id": "1187",
+      "fullname": "nufar mai"
+    }
+  },
+  {
+    "_id": "abc122",
+    "title": "Emma",
+    "description": "problem on loading",
+    "severity": 3,
+    "createdAt": "154210735789",
+    "creator": {
+      "_id": "1187",
+      "fullname": "nufar mai"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "username": "nn",
+    "password": "123",
+    "fullname": "nd",
+    "isAdmin": false,
+    "_id": "yhDB1"
+  },
+  {
+    "username": "nug",
+    "password": "123456",
+    "fullname": "nufar",
+    "isAdmin": false,
+    "_id": "BQkoy"
+  },
+  {
+    "_id": "CWms3",
+    "username": "Dobyyy",
+    "password": "123456",
+    "fullname": "Doby HP",
+    "isAdmin": false
+  },
+  {
+    "_id": "3nbbC",
+    "username": "iris",
+    "password": "123456",
+    "fullname": "iris",
+    "isAdmin": false
+  },
+  {
+    "_id": "1187",
+    "username": "nufar",
+    "password": "123456",
+    "fullname": "nufar mai",
+    "isAdmin": true
+  }
+]
